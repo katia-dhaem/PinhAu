@@ -1,1 +1,86 @@
+Lean Inception
+Histórico da Revisão
+O produto visa facilitar o processo de adoção responsável de cães no município de Pinhais, oferecendo uma plataforma intuitiva, local e alinhada com os Objetivos de Desenvolvimento Sustentável.
+Histórico da Revisão
+ 
+ 
+Data
+Versão
+Descrição
+Autor
+31/10/2024
+0.1
+Criação do Documento
+katia dhaem Mary Ana Carvalhais carneiro
+
+ 
+ 
+ 
+Template:
+ 
+Para [adotantes e tutores],
+Cujo [abandono de animais],
+O [PinhAu],
+É um [um site],
+Que [facilita que tutores encontrem adotantes para seus cães],
+Diferentemente de [  outros sites em segurança e localização restrita, site virtual da prefeitura de Pinhais e Patinhas Pinhais ],
+O nosso produto [ resultados viáveis para adotantes e tutores, com a plataforma digital mais intuitiva e segura].
+
+3. Objetivo do Produto
+Promover a adoção de cães de forma simples e eficiente, reduzir o abandono animal e fortalecer a conexão entre adotantes, ONGs e tutores locais.
+
+
+
+Jornada do Usuário: Bia Martins no PinhAu
+Contexto:
+Bia Martins, técnica em segurança do trabalho, utiliza o PinhAu como parte de um projeto interdisciplinar em tecnologia. O objetivo é não apenas adotar um cão de maneira responsável, mas também explorar como a plataforma promove boas práticas de usabilidade e impacto social.
+Acesso ao Site:
+Bia, apaixonada pela causa animal e mãe de pet, acessa o site do PinhAu rapidamente pelo computador, aproveitando a praticidade do site durante uma pausa no trabalho.
+Filtragem dos Cães Disponíveis:
+Os filtros intuitivos do PinhAu permitem que Bia personalize sua busca, selecionando:
+Idade: Filhote, para criar um vínculo desde cedo.
+Tamanho: Pequeno, ideal para o espaço disponível em sua casa.
+Localização: Pinhais, valorizando a adoção local e reduzindo o deslocamento.
+Exploração de Detalhes:
+Bia aprecia a riqueza de informações disponíveis sobre os cães, incluindo:
+Galeria de fotos: Imagens de alta qualidade que mostram o porte e a personalidade do animal.
+Saúde: Histórico detalhado sobre vacinação, vermifugação e castração.
+Necessidades especiais: Informações claras sobre cuidados específicos, caso necessários.
+Envio de Solicitação de Adoção:
+Ao encontrar um cão que se encaixa em suas expectativas, Bia preenche o formulário digital, fornecendo:
+Seus dados pessoais.
+Uma justificativa que demonstra seu compromisso e motivação para a adoção.
+Concordância com os termos de adoção responsável, reforçando sua seriedade no processo.
+
+5. Acompanhamento Personalizado
+Após o envio da solicitação, o tutor entra em contato para:
+Para verificar se está tudo certo mesmo para a adoção.
+Faz perguntas referentes ao local para buscar ou levar o cão referido.
+Resultados Esperados:
+Adoção concluída com sucesso, garantindo que Bia tenha todas as informações e suporte necessários para acolher o novo membro de sua família.
+Bia compartilha sua experiência no trabalho e nas redes sociais, inspirando colegas e amigos a considerarem a adoção responsável através do PinhAu.
+
+
+
+6. Brainstorming de Funcionalidades
+Filtro por localização, porte e idade.
+Cadastro de cães para adoção por ONGs e tutores.
+Perfil detalhado de cada cão, com fotos e histórico.
+Acompanhamento do processo de adoção em tempo real.
+Notificações de novos cães disponíveis.
+
+7. Revisão Técnica, Negócio e UX
+Técnico: Avaliação da viabilidade das funcionalidades.
+Negócio: Priorização com base no impacto e custo-benefício.
+UX: Garantir que o design seja intuitivo e acessível.
+
+8. Sequenciador
+Desenvolver funcionalidades básicas (cadastro de cães, filtros de busca).
+Criar páginas com informações detalhadas sobre os cães.
+Implementar notificações e sistema de acompanhamento.
+Lançar versão inicial para testes com ONGs e usuários selecionados.
+Expandir funcionalidades e integrar melhorias com base no feedback.
+
+
+
 
